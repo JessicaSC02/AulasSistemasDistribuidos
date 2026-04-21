@@ -1,0 +1,5 @@
+dask>=2024.1.0
+pandas == 3.0.1
+dask[distributed]>=2024.1.0
+pyarrow
+bokeh>=3.1.0
