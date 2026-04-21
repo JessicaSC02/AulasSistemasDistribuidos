@@ -1,0 +1,4 @@
+dados.csv
+logs_http.txt
+*.csv
+logs_*
